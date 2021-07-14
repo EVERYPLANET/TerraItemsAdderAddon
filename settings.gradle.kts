@@ -1,2 +1,2 @@
-rootProject.name = "TerraMythicMobsAddon"
+rootProject.name = "TerraItemsAdderAddon"
 

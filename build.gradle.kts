@@ -19,7 +19,6 @@ dependencies {
     compileOnly("com.dfsek.terra.common:common:5.0.0-BETA+7f11373f")
     compileOnly("com.dfsek.terra.bukkit:bukkit:5.0.0-BETA+7f11373f")
     compileOnly("com.dfsek:Tectonic:1.2.3")
-    compileOnly("io.lumine.xikage:MythicMobs:4.9.1")
     compileOnly("com.github.LoneDev6:API-ItemsAdder:2.3.8")
 
 }
