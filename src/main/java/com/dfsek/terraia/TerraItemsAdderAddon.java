@@ -1,4 +1,4 @@
-package com.dfsek.terramm;
+package com.dfsek.terraia;
 
 import com.dfsek.terra.api.TerraPlugin;
 import com.dfsek.terra.api.addons.TerraAddon;

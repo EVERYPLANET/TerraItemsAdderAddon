@@ -1,4 +1,4 @@
-package com.dfsek.terramm;
+package com.dfsek.terraia;
 
 import com.dfsek.terra.api.structures.parser.lang.ImplementationArguments;
 import com.dfsek.terra.api.structures.parser.lang.Returnable;
